@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":[["FILE_DESCRIPTOR_SET","Encoded file descriptor set for the `aurae.schedule.v0` package"]]};
